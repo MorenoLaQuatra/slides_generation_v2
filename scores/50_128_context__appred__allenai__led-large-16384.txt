@@ -1,0 +1,41 @@
+rouge1	Precision:	41.33
+rouge1	Recall   :	21.33
+rouge1	F-measure:	25.24
+rouge1
+41.33	21.33	25.24
+
+
+
+rouge2	Precision:	7.59
+rouge2	Recall   :	3.95
+rouge2	F-measure:	4.74
+rouge2
+7.59	3.95	4.74
+
+
+
+rougeL	Precision:	17.91
+rougeL	Recall   :	9.12
+rougeL	F-measure:	10.72
+rougeL
+17.91	9.12	10.72
+
+
+
+rougeLsum	Precision:	40.37
+rougeLsum	Recall   :	20.80
+rougeLsum	F-measure:	24.61
+rougeLsum
+40.37	20.80	24.61
+
+
+
+BERT-score
+precision	73.25
+recall	71.71
+f1	72.45
+73.25	71.71	72.45
+
+
+
+41.33	21.33	25.24	7.59	3.95	4.74	17.91	9.12	10.72	40.37	20.80	24.61	73.25	71.71	72.45
